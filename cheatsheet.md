@@ -1,3 +1,10 @@
+# EXERCITII REZOLVATE DE MINE
+
+Afisati toate fisierele ce contin caracterul "a"
+
+ls | grep a
+
+
 # PROCESE
 
 ## COMANDA **PS**
