@@ -2,7 +2,7 @@
 
 Afisati toate fisierele ce contin caracterul "a"
 
-ls | grep a
+**ls | grep a**
 
 
 # PROCESE
